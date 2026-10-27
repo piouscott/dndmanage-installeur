@@ -12,6 +12,9 @@ Ce dépôt contient uniquement les **installeurs** (voir **[Releases](../../rele
 
 1. Télécharger **`DnDManage-Installeur-x.y.z.exe`** dans la [dernière version](../../releases/latest).
 2. Le lancer : « Suivant, Suivant, Installer » — aucun droit d'administrateur demandé.
+   Si Windows affiche « Windows a protégé votre ordinateur » (SmartScreen) : cliquer sur
+   **Informations complémentaires**, puis **Exécuter quand même**. Ce message apparaît pour tout
+   programme récent qui n'est pas signé numériquement ; il ne signale pas de problème.
 3. Ouvrir **DnD Manage** (menu Démarrer ou bureau). Une fenêtre noire s'ouvre — elle fait tourner le
    site, la garder ouverte pendant la partie — puis le navigateur.
 4. Le **Grimoire** (assistant) crée ton compte de Maître du Jeu et installe une première aventure,
